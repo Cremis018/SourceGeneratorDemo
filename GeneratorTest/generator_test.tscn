@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cdqpc1h85wn7o"]
+
+[ext_resource type="Script" uid="uid://dv6cciqdutl4n" path="res://GeneratorTest.cs" id="1_hko6r"]
+
+[node name="GeneratorTest" type="Node"]
+script = ExtResource("1_hko6r")

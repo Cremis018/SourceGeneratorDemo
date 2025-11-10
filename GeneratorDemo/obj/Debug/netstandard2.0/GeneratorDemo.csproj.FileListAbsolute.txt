@@ -1,0 +1,10 @@
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\bin\Debug\netstandard2.0\GeneratorDemo.deps.json
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\bin\Debug\netstandard2.0\GeneratorDemo.dll
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\bin\Debug\netstandard2.0\GeneratorDemo.pdb
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\obj\Debug\netstandard2.0\GeneratorDemo.csproj.AssemblyReference.cache
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\obj\Debug\netstandard2.0\GeneratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\obj\Debug\netstandard2.0\GeneratorDemo.AssemblyInfoInputs.cache
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\obj\Debug\netstandard2.0\GeneratorDemo.AssemblyInfo.cs
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\obj\Debug\netstandard2.0\GeneratorDemo.csproj.CoreCompileInputs.cache
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\obj\Debug\netstandard2.0\GeneratorDemo.dll
+C:\GameProjects\SourceGeneratorDemo\GeneratorDemo\obj\Debug\netstandard2.0\GeneratorDemo.pdb
