@@ -1,28 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="145e0d2c-5764-426a-ba9a-1623c43f8e39" name="更改" comment="" />
+    <list default="true" id="145e0d2c-5764-426a-ba9a-1623c43f8e39" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../EcsDemo/DefaultAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyClass.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/ComponentAttribute.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../EcsDemo/ComponentAttribute.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/ComponentGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/ComponentGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/GeneratorDemo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/GeneratorDemo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/bin/Debug/netstandard2.0/GeneratorDemo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/bin/Debug/netstandard2.0/GeneratorDemo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/bin/Debug/netstandard2.0/GeneratorDemo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/bin/Debug/netstandard2.0/GeneratorDemo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/Debug/netstandard2.0/GeneratorDemo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/GeneratorDemo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/GeneratorDemo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/GeneratorDemo.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/GeneratorDemo.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeneratorDemo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../GeneratorDemo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GeneratorTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GeneratorTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneratorTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratorTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeneratorTest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratorTest.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator_test.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/generator_test.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.godot" beforeDir="false" afterPath="$PROJECT_DIR$/project.godot" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MyClass2.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3566fPyHhGjeriqNh72Zq0cFjFO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET 可执行文件.Player">
     <configuration name="Player GDScript" type="GDSCRIPT_DEBUG_RUN_CONFIGURATION" factoryName="GdScriptRunFactory" show_console_on_std_err="false" show_console_on_std_out="false" port="6006">
       <option name="address" value="127.0.0.1" />
@@ -79,6 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1762418276349</updated>
       <workItem from="1762418277672" duration="3000" />
+      <workItem from="1762875341506" duration="17000" />
+      <workItem from="1762875375794" duration="9000" />
     </task>
     <servers />
   </component>

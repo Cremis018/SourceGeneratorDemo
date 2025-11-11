@@ -1,6 +1,18 @@
-[gd_scene load_steps=2 format=3 uid="uid://cdqpc1h85wn7o"]
+[gd_scene load_steps=4 format=3 uid="uid://cdqpc1h85wn7o"]
 
 [ext_resource type="Script" uid="uid://dv6cciqdutl4n" path="res://GeneratorTest.cs" id="1_hko6r"]
+[ext_resource type="Script" uid="uid://bb1wgi528ruar" path="res://MyClass.cs" id="2_3ux7d"]
+[ext_resource type="Script" uid="uid://bjvklinfah4mf" path="res://MyClass2.cs" id="3_3ekj0"]
 
-[node name="GeneratorTest" type="Node"]
+[node name="GeneratorTest" type="Node" node_paths=PackedStringArray("MyClass")]
 script = ExtResource("1_hko6r")
+MyClass = NodePath("Node")
+
+[node name="Node" type="Node" parent="." node_paths=PackedStringArray("PropertyThree")]
+script = ExtResource("2_3ux7d")
+PropertyOne = 2
+PropertyTwo = "1111"
+PropertyThree = NodePath("../MyClass2")
+
+[node name="MyClass2" type="Node" parent="."]
+script = ExtResource("3_3ekj0")
