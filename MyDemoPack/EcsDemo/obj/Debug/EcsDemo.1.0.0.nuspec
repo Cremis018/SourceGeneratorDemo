@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EcsDemo</id>
+    <version>1.0.0</version>
+    <authors>Cremis018</authors>
+    <description>包管理工具测试项目</description>
+    <repository type="git" commit="88078af4c74e4d5010b4b90fb45fe809b54b160f" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\MyNuget\Debug\net8.0\EcsDemo.dll" target="lib\net8.0\EcsDemo.dll" />
+  </files>
+</package>

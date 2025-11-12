@@ -2,7 +2,6 @@ using Godot;
 using System;
 using EcsDemo;
 using My;
-using SourceGeneratorDemo.Generator;
 
 public partial class GeneratorTest : Node
 {

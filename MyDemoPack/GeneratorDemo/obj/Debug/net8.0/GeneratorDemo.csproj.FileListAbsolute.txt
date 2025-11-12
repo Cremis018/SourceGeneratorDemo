@@ -1,0 +1,13 @@
+C:\MyNuget\Debug\net8.0\GeneratorDemo.deps.json
+C:\MyNuget\Debug\net8.0\GeneratorDemo.dll
+C:\MyNuget\Debug\net8.0\GeneratorDemo.pdb
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.csproj.AssemblyReference.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.AssemblyInfoInputs.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.AssemblyInfo.cs
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.csproj.CoreCompileInputs.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.sourcelink.json
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.dll
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\refint\GeneratorDemo.dll
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\GeneratorDemo.pdb
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\GeneratorDemo\obj\Debug\net8.0\ref\GeneratorDemo.dll

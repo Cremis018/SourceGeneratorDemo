@@ -5,7 +5,7 @@
     <EnableDynamicLoading>true</EnableDynamicLoading>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EcsDemo\EcsDemo.csproj" />
-    <ProjectReference Include="..\GeneratorDemo\GeneratorDemo.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="true"/>
+    <PackageReference Include="EcsDemo" Version="1.0.0" />
+    <PackageReference Include="GeneratorDemo" Version="1.0.0" />
   </ItemGroup>
 </Project>
