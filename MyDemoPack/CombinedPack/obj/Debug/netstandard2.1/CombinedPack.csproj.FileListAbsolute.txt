@@ -1,0 +1,5 @@
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\netstandard2.1\CombinedPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\netstandard2.1\CombinedPack.AssemblyInfoInputs.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\netstandard2.1\CombinedPack.AssemblyInfo.cs
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\netstandard2.1\CombinedPack.csproj.CoreCompileInputs.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\netstandard2.1\CombinedPack.sourcelink.json

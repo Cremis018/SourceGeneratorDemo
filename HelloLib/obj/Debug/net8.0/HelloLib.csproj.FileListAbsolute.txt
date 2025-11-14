@@ -1,0 +1,15 @@
+C:\GameProjects\SourceGeneratorDemo\HelloLib\bin\Debug\net8.0\HelloLib.deps.json
+C:\GameProjects\SourceGeneratorDemo\HelloLib\bin\Debug\net8.0\HelloLib.dll
+C:\GameProjects\SourceGeneratorDemo\HelloLib\bin\Debug\net8.0\HelloLib.pdb
+C:\MyNuget\Debug\net8.0\HelloLib.deps.json
+C:\MyNuget\Debug\net8.0\HelloLib.dll
+C:\MyNuget\Debug\net8.0\HelloLib.pdb
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\HelloLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\HelloLib.AssemblyInfoInputs.cache
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\HelloLib.AssemblyInfo.cs
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\HelloLib.csproj.CoreCompileInputs.cache
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\HelloLib.sourcelink.json
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\HelloLib.dll
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\refint\HelloLib.dll
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\HelloLib.pdb
+C:\GameProjects\SourceGeneratorDemo\HelloLib\obj\Debug\net8.0\ref\HelloLib.dll

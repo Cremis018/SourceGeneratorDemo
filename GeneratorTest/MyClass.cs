@@ -1,4 +1,4 @@
-﻿using EcsDemo;
+﻿using HelloLib;
 using Godot;
 
 namespace My;

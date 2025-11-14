@@ -1,0 +1,14 @@
+C:\MyNuget\Debug\net8.0\CombinedPack.deps.json
+C:\MyNuget\Debug\net8.0\CombinedPack.dll
+C:\MyNuget\Debug\net8.0\CombinedPack.pdb
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.csproj.AssemblyReference.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.AssemblyInfoInputs.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.AssemblyInfo.cs
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.csproj.CoreCompileInputs.cache
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.sourcelink.json
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\Combined.B7A06DDC.Up2Date
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.dll
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\refint\CombinedPack.dll
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\CombinedPack.pdb
+C:\GameProjects\SourceGeneratorDemo\MyDemoPack\CombinedPack\obj\Debug\net8.0\ref\CombinedPack.dll

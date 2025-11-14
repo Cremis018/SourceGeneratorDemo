@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hqdHiUC7cbg=",
+  "success": true,
+  "projectFilePath": "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\CombinedPack\\CombinedPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\34601\\.nuget\\packages\\ecsdemo\\1.0.0\\ecsdemo.1.0.0.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\generatordemo\\1.0.0\\generatordemo.1.0.0.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

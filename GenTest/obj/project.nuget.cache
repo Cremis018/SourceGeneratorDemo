@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qs3HmwzCskA=",
+  "success": true,
+  "projectFilePath": "C:\\GameProjects\\SourceGeneratorDemo\\GenTest\\GenTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\34601\\.nuget\\packages\\hellolib\\1.0.1\\hellolib.1.0.1.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\34601\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

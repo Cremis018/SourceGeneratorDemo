@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HelloLib</id>
+    <version>1.0.0</version>
+    <authors>HelloLib</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="40a695901d640393bc44b24a58be213d4cbe6518" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\MyNuget\Debug\net8.0\HelloLib.dll" target="lib\net8.0\HelloLib.dll" />
+    <file src="C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\bin\Debug\netstandard2.0\HelloGen.dll" target="analyzers\dotnet\cs\HelloGen.dll" />
+  </files>
+</package>

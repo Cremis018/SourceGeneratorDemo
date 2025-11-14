@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CombinedPack</id>
+    <version>1.0.1</version>
+    <authors>Cremis018</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="40a695901d640393bc44b24a58be213d4cbe6518" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\MyNuget\Debug\net8.0\CombinedPack.dll" target="lib\net8.0\CombinedPack.dll" />
+    <file src="C:\MyNuget\Debug\net8.0\CombinedPack.dll" target="analyzers\dotnet\cs\CombinedPack.dll" />
+  </files>
+</package>

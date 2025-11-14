@@ -1,13 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net8.0</TargetFramework>
+        <TargetFramework>netstandard2.1</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Authors>Cremis018</Authors>
         <Description>包管理工具测试项目</Description>
         <Company>DeadDog</Company>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <LangVersion>10</LangVersion>
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -18,4 +19,11 @@
       <OutputPath>C:\MyNuget\Release</OutputPath>
     </PropertyGroup>
 
+    <ItemGroup> 
+        <None Include="..\GeneratorDemo\bin\$(Configuration)\netstandard2.1\GeneratorDemo.dll"
+              PackgePath="analyzers/dotnet/cs"
+              Pack="true"
+              Visible="false" />
+        <Content Remove="$(OutputPath)\$(AssemblyName).dll" />
+    </ItemGroup>
 </Project>

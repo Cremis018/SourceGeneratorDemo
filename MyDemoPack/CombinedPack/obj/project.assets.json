@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "EcsDemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/EcsDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EcsDemo.dll": {}
+        }
+      },
+      "GeneratorDemo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/GeneratorDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeneratorDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcsDemo/1.0.0": {
+      "type": "project",
+      "path": "../EcsDemo/EcsDemo.csproj",
+      "msbuildProject": "../EcsDemo/EcsDemo.csproj"
+    },
+    "GeneratorDemo/1.0.0": {
+      "type": "project",
+      "path": "../GeneratorDemo/GeneratorDemo.csproj",
+      "msbuildProject": "../GeneratorDemo/GeneratorDemo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "EcsDemo >= 1.0.0",
+      "GeneratorDemo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\34601\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.1",
+    "restore": {
+      "projectUniqueName": "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\CombinedPack\\CombinedPack.csproj",
+      "projectName": "CombinedPack",
+      "projectPath": "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\CombinedPack\\CombinedPack.csproj",
+      "packagesPath": "C:\\Users\\34601\\.nuget\\packages\\",
+      "outputPath": "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\CombinedPack\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\34601\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\MyNuget\\Debug": {},
+        "C:\\MyNuget\\Release": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\EcsDemo\\EcsDemo.csproj": {
+              "projectPath": "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\EcsDemo\\EcsDemo.csproj",
+              "privateAssets": "all"
+            },
+            "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\GeneratorDemo\\GeneratorDemo.csproj": {
+              "projectPath": "C:\\GameProjects\\SourceGeneratorDemo\\MyDemoPack\\GeneratorDemo\\GeneratorDemo.csproj",
+              "privateAssets": "all"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.20, 8.0.20]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

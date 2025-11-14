@@ -1,6 +1,6 @@
 using Godot;
 using System;
-using EcsDemo;
+using HelloLib;
 
 [Component]
 public partial class MyClass2 : Node

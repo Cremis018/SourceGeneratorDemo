@@ -1,6 +1,6 @@
 using Godot;
 using System;
-using EcsDemo;
+using HelloLib;
 using My;
 
 public partial class GeneratorTest : Node

@@ -1,0 +1,14 @@
+C:\MyNuget\Debug\netstandard2.0\HelloGen.deps.json
+C:\MyNuget\Debug\netstandard2.0\HelloGen.dll
+C:\MyNuget\Debug\netstandard2.0\HelloGen.pdb
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\bin\Debug\netstandard2.0\HelloGen.deps.json
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\bin\Debug\netstandard2.0\HelloGen.dll
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\bin\Debug\netstandard2.0\HelloGen.pdb
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.csproj.AssemblyReference.cache
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.AssemblyInfoInputs.cache
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.AssemblyInfo.cs
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.csproj.CoreCompileInputs.cache
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.sourcelink.json
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.dll
+C:\GameProjects\SourceGeneratorDemo\HelloGen\HelloGen\obj\Debug\netstandard2.0\HelloGen.pdb

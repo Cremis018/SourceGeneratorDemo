@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <!-- 添加版本号 -->
+        <Version>1.0.1</Version>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+        <OutputPath>C:\MyNuget\Debug</OutputPath>
+    </PropertyGroup>
+
+    <!-- 添加项目引用，确保 HelloGen 先构建 -->
+    <ItemGroup>
+        <ProjectReference Include="..\HelloGen\HelloGen\HelloGen.csproj" ReferenceOutputAssembly="false" OutputItemType="Analyzer" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <!-- 使用 $(Configuration) 变量，支持 Debug/Release -->
+        <None Include="..\HelloGen\HelloGen\bin\$(Configuration)\netstandard2.0\HelloGen.dll"
+              Pack="true"
+              PackagePath="analyzers\dotnet\cs"
+              Visible="false"/>
+    </ItemGroup>
+
+    <!-- 确保在打包前 HelloGen.dll 存在 -->
+    <Target Name="EnsureHelloGenBuilt" BeforeTargets="Pack">
+        <Error Condition="!Exists('..\HelloGen\HelloGen\bin\$(Configuration)\netstandard2.0\HelloGen.dll')"
+               Text="HelloGen.dll not found. Please build HelloGen project first." />
+    </Target>
+</Project>

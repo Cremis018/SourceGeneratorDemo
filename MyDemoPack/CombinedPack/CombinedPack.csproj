@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <TargetFramework>net8.0</TargetFramework>
+        <Authors>Cremis018</Authors>
+        <Company>DeadDog</Company>
+        <LangVersion>10</LangVersion>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>1.0.1</Version>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <OutputPath>C:\MyNuget\Debug</OutputPath>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <OutputPath>C:\MyNuget\Release</OutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EcsDemo\EcsDemo.csproj" PrivateAssets="all"/>
+      <ProjectReference Include="..\GeneratorDemo\GeneratorDemo.csproj" PrivateAssets="all"/>
+    </ItemGroup>
+
+    <!-- 将生成器程序集作为“分析器”打进包的指定目录 -->
+    <ItemGroup>
+        <None Include="$(OutputPath)\$(AssemblyName).dll" Pack="true" PackagePath="analyzers/dotnet/cs" Visible="false" />
+    </ItemGroup>
+
+    <!-- 可选：当某些依赖未被自动捕获时，用此目标兜底纳入打包 -->
+    <Target Name="GetDependencyTargetPaths" AfterTargets="ResolvePackageDependenciesForBuild">
+        <ItemGroup>
+            <TargetPathWithTargetPlatformMoniker Include="@(ResolvedCompileFileDefinitions)" IncludeRuntimeDependency="false" />
+        </ItemGroup>
+    </Target>
+</Project>
